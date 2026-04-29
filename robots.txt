@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-guyehj.aguiareberlandi.adv.br/sitemap.xml
